@@ -26,9 +26,9 @@ Change the permissions of the script to make it executable:
 ## Usage
 Run the script to start collection evidence remotely 
 ### 1. On the Receiver (Collector) Machine
-Run the `receiver.sh` to start listening for incoming data:
-Give port number to listen 
-Select what to receive? 
+Run the `receiver.sh` to start listening for incoming data:\n
+Give port number to listen\n
+Select what to receive?\n
 Give file name to store data
 
 ### 2. On the Sender (Infected) Machine
