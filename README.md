@@ -18,8 +18,8 @@ To use this script, follow these steps:
 
 ### 1. Clone the Repository and make it executable
 Clone this repository to your local machine using Git:
-<pre>git clone https://github.com/Akashthakar/remote-evidence-collector.git
-cd remote-evidence-collector</pre>
+<pre>git clone https://github.com/Akashthakar/Remote-Evidence-Collector.git
+cd Remote-Evidence-Collector</pre>
 Change the permissions of the script to make it executable:
 <pre> chmod +x * </pre>
 
